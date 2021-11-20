@@ -1,4 +1,10 @@
 # Peformance Review Input App
+This is a dummy app for performance review. 
+
+It has admin view and user view. 
+Admin can read user's review and assign review to any user. 
+User can see pending reviews and submit once finish.
+
 To run the app, please run the server side and the frontend side.
 
 ## Running server side
