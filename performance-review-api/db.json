@@ -1,0 +1,58 @@
+{
+	"employees": [
+		{
+			"id": "458",
+			"name": "Michael Scott",
+			"position": "Regional Manager"
+		},
+		{
+			"id": "927",
+			"name": "Dwight Schrute",
+			"position": "Assistant (to the) Regional Manager"
+		},
+		{
+			"id": "392",
+			"name": "Jim Halpert",
+			"position": "Sales Manager"
+		},
+		{
+			"id": "194",
+			"name": "Pam Beesly",
+			"position": "Secretary"
+		},
+		{
+			"id": "924",
+			"name": "Angela Martin",
+			"position": "Lead Accountant"
+		},
+		{
+			"id": "500",
+			"name": "Toby Flenderson",
+			"position": "Head of Human Resources"
+		},
+		{
+			"id": "510",
+			"name": "Kelly Kapoor",
+			"position": "Customer Relations Manager"
+		},
+		{
+			"id": "512",
+			"name": "Stanley Hudson",
+			"position": "Sales Manager"
+		},
+		{
+			"id": "523",
+			"name": "Phyllis Lapin",
+			"position": "Sales Manager"
+		},
+		{
+			"id": "553",
+			"name": "Oscar Gutierrez",
+			"position": "Lead Accountant"
+		}
+	],
+	"reviews": {
+		"pending": [],
+		"submitted": []
+	}
+}
